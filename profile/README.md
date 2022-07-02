@@ -12,4 +12,4 @@ Platforms that we currently support include
 - Slack
 - Telegram
 
-🧙‍♂️We are also specialists in [FIX protocol](https://www.fixtrading.org/), and many of our chatbots understand FIX.
+🧙‍♂️We are also specialists in [FIX protocol](https://www.fixtrading.org/), many of our chatbots understand FIX.
